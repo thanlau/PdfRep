@@ -23,10 +23,6 @@ The dataset includes a mix of benign and malicious PDF files, providing a divers
 ### File References
 For easy navigation and reference, users can consult the `filename` column in the `feature_file.csv` file. This column provides specific filenames included in the PdfRep dataset, facilitating straightforward identification and access to individual files. The corresponding features used in this research can also be found in it.
 
-## Research Work
-This dataset was evaluated in our research work:
-
-R. Liu, R. Joyce, C. Matuszek and C. Nicholas, "Evaluating Representativeness in PDF Malware Datasets: A Comparative Study and a New Dataset," 2023 IEEE International Conference on Big Data (BigData), Sorrento, Italy, 2023, pp. 3017-3024, doi: [10.1109/BigData59044.2023.10386516](https://doi.org/10.1109/BigData59044.2023.10386516).
 
 ## Usage
 This dataset is intended for use in academic and research settings. Users are encouraged to utilize this data for research.
