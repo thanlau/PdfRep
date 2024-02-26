@@ -17,6 +17,8 @@ The PdfRep dataset is an amalgamation of files from four distinct sources:
 
 4. **Govdocs**: This dataset consists of benign files and is hosted by Digital Corpora. These files can be found at [Digital Corpora](https://digitalcorpora.org/corpora/file-corpora/files/).
 
+5. **Feature File**: The extracted features can be downloaded on the [Feature Data](https://www.dropbox.com/scl/fo/e8z8d2i6y26nkdfkdtk64/h?rlkey=391h2dq0r70dxilhifvl6zlfj&dl=0)
+
 ## Dataset Structure
 The dataset includes a mix of benign and malicious PDF files, providing a diverse range of samples for analysis. 
 
