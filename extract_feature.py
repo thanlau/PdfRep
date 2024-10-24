@@ -5,7 +5,7 @@
 
 # How to Use:
 # 1. Replace the `folder_path` variable with the path to your PDF files.
-# 2. Replace the existing pdf_genome.py file in the pdfrw library path with this script.
+# 2. Replace the existing pdf_genome.py file in the pdfrw library path with the pdf_genome.py in this repo.
 
 import pickle
 import os
