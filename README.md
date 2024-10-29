@@ -28,6 +28,7 @@ For easy navigation and reference, users can consult the `filename` column in th
 
 ## Usage
 This dataset is intended for use in academic and research settings. Users are encouraged to utilize this data for research.
+If you encounter an error while using the pdfrw library to extract features, please try using this modified version instead: https://github.com/mzweilin/PDF-Malware-Parser
 
 ## Acknowledgments
 We acknowledge the contributions of the respective organizations and repositories that have made their data available, aiding in the creation of this comprehensive dataset.
